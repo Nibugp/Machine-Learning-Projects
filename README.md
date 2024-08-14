@@ -3,7 +3,7 @@ Welcome to my collection of machine learning projects! Here you'll find various 
 **Predict Term Deposit Subscriptions**
 -Objective: Predicted client subscription to term deposits using machine learning.
 -Techniques: Classification Algorithms, Feature Engineering, Model Evaluation.
--Key Findings: Achieved high prediction accuracy with optimized model parameters.
+-Key Findings: Achieved high prediction accuracy with optimized model parameters.                                                                                                                                                                                                          
 **Heart Disease Prediction**
 -Objective: Developed a model to predict the likelihood of heart disease.
 -Techniques: Data Preprocessing, Feature Engineering, Model Tuning.
